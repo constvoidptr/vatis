@@ -1,6 +1,8 @@
 {
   "name": "LOVV",
   "id": "652c728a-4bc8-4856-84a9-3a90dc445413",
+  "updateUrl": "https://raw.githubusercontent.com/constvoidptr/vatis/refs/heads/master/vATIS%20Profile%20-%20LOVV.json",
+  "updateSerial": 2025050201,
   "stations": [
     {
       "id": "cfa29bf8-e74e-42e1-bf66-fe429f5a9a56",
