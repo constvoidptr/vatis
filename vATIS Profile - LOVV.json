@@ -1778,7 +1778,7 @@
         "recentWeather": {
           "template": {
             "text": "RE{weather}",
-            "voice": "{weather}"
+            "voice": "RECENT {weather}"
           }
         },
         "clouds": {
@@ -6348,7 +6348,7 @@
         "recentWeather": {
           "template": {
             "text": "RE{weather}",
-            "voice": "{weather}"
+            "voice": "RECENT {weather}"
           }
         },
         "clouds": {
@@ -8437,7 +8437,7 @@
         "recentWeather": {
           "template": {
             "text": "RE{weather}",
-            "voice": "{weather}"
+            "voice": "RECENT {weather}"
           }
         },
         "clouds": {
@@ -10555,7 +10555,7 @@
         "recentWeather": {
           "template": {
             "text": "RE{weather}",
-            "voice": "{weather}"
+            "voice": "RECENT {weather}"
           }
         },
         "clouds": {
@@ -12644,7 +12644,7 @@
         "recentWeather": {
           "template": {
             "text": "RE{weather}",
-            "voice": "{weather}"
+            "voice": "RECENT {weather}"
           }
         },
         "clouds": {
@@ -14723,7 +14723,7 @@
         "recentWeather": {
           "template": {
             "text": "RE{weather}",
-            "voice": "{weather}"
+            "voice": "RECENT {weather}"
           }
         },
         "clouds": {
@@ -16811,7 +16811,7 @@
         "recentWeather": {
           "template": {
             "text": "RE{weather}",
-            "voice": "{weather}"
+            "voice": "RECENT {weather}"
           }
         },
         "clouds": {
