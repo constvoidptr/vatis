@@ -6626,6 +6626,21 @@
           "variableName": "ECET",
           "text": "ECET",
           "voice": "END OF CIVIL EVENING TWILIGHT"
+        },
+        {
+          "variableName": "CTR",
+          "text": "CTR",
+          "voice": "CONTROL ZONE"
+        },
+        {
+          "variableName": "AGL",
+          "text": "AGL",
+          "voice": "ABOVE GROUND LEVEL"
+        },
+        {
+          "variableName": "150M",
+          "text": "150M",
+          "voice": "*150 METERS"
         }
       ],
       "airportConditionDefinitions": [
@@ -6660,6 +6675,11 @@
           "text": "TRA SKL AND ALMENLAND AND BRK ACTIVE TIL ECET",
           "ordinal": 2,
           "enabled": false
+        },
+        {
+          "text": "CAUTION MODEL AIRFIELDS ACTIVE WITHIN @CTR DURING DAYTIME AS PUBLISHED UP TO @150M @AGL",
+          "ordinal": 3,
+          "enabled": true
         }
       ]
     },
@@ -8729,6 +8749,21 @@
           "variableName": "TRA_L_AND_NORDPARK",
           "text": "TRAS L AND NORDPARK ACTIVE",
           "voice": "TEMPORARY RESERVED AREAS LIMA AND NORDPARK ACTIVE"
+        },
+        {
+          "variableName": "CTR",
+          "text": "CTR",
+          "voice": "CONTROL ZONE"
+        },
+        {
+          "variableName": "AGL",
+          "text": "AGL",
+          "voice": "ABOVE GROUND LEVEL"
+        },
+        {
+          "variableName": "150M",
+          "text": "150M",
+          "voice": "*150 METERS"
         }
       ],
       "airportConditionDefinitions": [
@@ -8775,7 +8810,7 @@
           "enabled": false
         },
         {
-          "text": "CAUTION MODEL AIRFIELDS ACTIVE WITHIN CTR DURING DAYTIME AS PUBLISHED UP TO 150M AGL",
+          "text": "CAUTION MODEL AIRFIELDS ACTIVE WITHIN @CTR DURING DAYTIME AS PUBLISHED UP TO @150M @AGL",
           "ordinal": 5,
           "enabled": false
         }
