@@ -6490,7 +6490,7 @@
           "name": "DEP: 16 ARR: 34",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWG_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nARR EXP RWY 34, DEP EXP RWY 16\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n[TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWG_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nARR EXP RWY 34, DEP EXP RWY 16\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
             "enabled": false
           }
@@ -6500,7 +6500,7 @@
           "name": "RWY 16",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWG_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY 16\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n[TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWG_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY 16\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
             "enabled": false
           }
@@ -6510,7 +6510,7 @@
           "name": "RWY 34",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWG_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY 34\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n[TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWG_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY 34\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
             "enabled": false
           }
@@ -6641,6 +6641,11 @@
           "variableName": "150M",
           "text": "150M",
           "voice": "*150 METERS"
+        },
+        {
+          "variableName": "AD_TREND",
+          "text": "AD TREND",
+          "voice": "AERODROME"
         }
       ],
       "airportConditionDefinitions": [
@@ -8600,7 +8605,7 @@
           "name": "RWY BY ATC",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWI_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY IN USE BY @AIR_TFC_CTL\r\n@TRL @ND\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n[TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
+          "template": "@LOWI_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY IN USE BY @AIR_TFC_CTL\r\n@TRL @ND\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
           "externalGenerator": {
             "enabled": false
           }
@@ -8611,7 +8616,7 @@
           "name": "RWY 08",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWI_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY IN USE 08\r\n@TRL @ND\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n[TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
+          "template": "@LOWI_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY IN USE 08\r\n@TRL @ND\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
           "externalGenerator": {
             "enabled": false
           }
@@ -8622,7 +8627,7 @@
           "name": "RWY 08 DUE TO FOEHN",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWI_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY IN USE 08 DUE TO FOEHN\r\n@TRL @ND\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n[TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
+          "template": "@LOWI_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY IN USE 08 DUE TO FOEHN\r\n@TRL @ND\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
           "externalGenerator": {
             "enabled": false
           }
@@ -8633,7 +8638,7 @@
           "name": "RWY 26",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWI_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY IN USE 26\r\n@TRL @ND\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n[TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
+          "template": "@LOWI_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY IN USE 26\r\n@TRL @ND\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
           "externalGenerator": {
             "enabled": false
           }
@@ -8764,6 +8769,11 @@
           "variableName": "150M",
           "text": "150M",
           "voice": "*150 METERS"
+        },
+        {
+          "variableName": "AD_TREND",
+          "text": "AD TREND",
+          "voice": "AERODROME"
         }
       ],
       "airportConditionDefinitions": [
@@ -10732,7 +10742,7 @@
           "name": "RWY BY ATC",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWK_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY IN USE BY ATC\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n[TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
+          "template": "@LOWK_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY IN USE BY ATC\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
           "externalGenerator": {
             "enabled": false
           }
@@ -10742,7 +10752,7 @@
           "name": "RWY 10L",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWK_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY IN USE @RWY_10L\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n[TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
+          "template": "@LOWK_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY IN USE @RWY_10L\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
           "externalGenerator": {
             "enabled": false
           }
@@ -10752,7 +10762,7 @@
           "name": "RWY 28R",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWK_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY IN USE @RWY_28R\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n[TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
+          "template": "@LOWK_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY IN USE @RWY_28R\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
           "externalGenerator": {
             "enabled": false
           }
@@ -10858,6 +10868,11 @@
           "variableName": "RWY_28R",
           "text": "28R",
           "voice": "^28R"
+        },
+        {
+          "variableName": "AD_TREND",
+          "text": "AD TREND",
+          "voice": "AERODROME"
         }
       ],
       "airportConditionDefinitions": [
@@ -12821,7 +12836,7 @@
           "name": "RWY BY ATC",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWL_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY IN USE BY ATC\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n[TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
+          "template": "@LOWL_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY IN USE BY ATC\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
           "externalGenerator": {
             "enabled": false
           }
@@ -12831,7 +12846,7 @@
           "name": "RWY 08",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWL_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY 08\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n[TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
+          "template": "@LOWL_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY 08\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
           "externalGenerator": {
             "enabled": false
           }
@@ -12841,7 +12856,7 @@
           "name": "RWY 26",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWL_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY 26\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n[TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
+          "template": "@LOWL_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY 26\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
           "externalGenerator": {
             "enabled": false
           }
@@ -12937,6 +12952,11 @@
           "variableName": "COND",
           "text": "COND",
           "voice": "CONDITION"
+        },
+        {
+          "variableName": "AD_TREND",
+          "text": "AD TREND",
+          "voice": "AERODROME"
         }
       ],
       "airportConditionDefinitions": [
@@ -14901,7 +14921,7 @@
           "name": "RWY 15, IFR DEP 33",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWS_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY IN USE 15\r\nIFR DEP EXP RWY 33\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n[TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
+          "template": "@LOWS_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY IN USE 15\r\nIFR DEP EXP RWY 33\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
           "externalGenerator": {
             "enabled": false
           }
@@ -14912,7 +14932,7 @@
           "name": "RWY 33, IFR ARR 15",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWS_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY IN USE 33\r\nIFR ARR EXP LDG RWY 15\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n[TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
+          "template": "@LOWS_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY IN USE 33\r\nIFR ARR EXP LDG RWY 15\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
           "externalGenerator": {
             "enabled": false
           }
@@ -14923,7 +14943,7 @@
           "name": "RWY 15",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWS_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY IN USE 15\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n[TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
+          "template": "@LOWS_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY IN USE 15\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
           "externalGenerator": {
             "enabled": false
           }
@@ -14934,7 +14954,7 @@
           "name": "RWY 33",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWS_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY IN USE 33\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n[TREND]\r\n[ARPT_COND]\r\nIFR ARR EXP RNP APCH\r\nRWY 33\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
+          "template": "@LOWS_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nRWY IN USE 33\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n@AUTO_REPORT\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\nIFR ARR EXP RNP APCH\r\nRWY 33\r\n[NOTAMS]\r\n@ACK_INFO\r\n@END_OF_DATA",
           "externalGenerator": {
             "enabled": false
           }
@@ -15030,6 +15050,11 @@
           "variableName": "COND",
           "text": "COND",
           "voice": "CONDITION"
+        },
+        {
+          "variableName": "AD_TREND",
+          "text": "AD TREND",
+          "voice": "AERODROME"
         }
       ],
       "airportConditionDefinitions": [
