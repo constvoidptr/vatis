@@ -1771,7 +1771,7 @@
             }
           },
           "template": {
-            "text": "WTH {weather}",
+            "text": "{weather}",
             "voice": "WEATHER {weather}."
           }
         },
@@ -4035,7 +4035,7 @@
             }
           },
           "template": {
-            "text": "WTH {weather}",
+            "text": "{weather}",
             "voice": "WEATHER {weather}."
           }
         },
@@ -16864,7 +16864,7 @@
             }
           },
           "template": {
-            "text": "WTH {weather}",
+            "text": "{weather}",
             "voice": "WEATHER {weather}."
           }
         },
