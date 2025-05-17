@@ -1330,64 +1330,64 @@
               "spoken": "Partial Fog"
             },
             "RA": {
-              "text": "RA",
-              "spoken": "Rain"
+              "text": "MOD RA",
+              "spoken": "Moderate Rain"
             },
             "RADZ": {
-              "text": "RADZ",
-              "spoken": "Rain And Drizzle"
+              "text": "MOD RADZ",
+              "spoken": "Moderate Rain And Drizzle"
             },
             "RADZPL": {
-              "text": "RADZPL",
-              "spoken": "Rain, Drizzle And Ice Pellets"
+              "text": "MOD RADZPL",
+              "spoken": "Moderate Rain, Drizzle And Ice Pellets"
             },
             "RADZSG": {
-              "text": "RADZSG",
-              "spoken": "Rain, Drizzle And Snow Grains"
+              "text": "MOD RADZSG",
+              "spoken": "Moderate Rain, Drizzle And Snow Grains"
             },
             "RADZSN": {
-              "text": "RADZSN",
-              "spoken": "Rain, Drizzle And Snow"
+              "text": "MOD RADZSN",
+              "spoken": "Moderate Rain, Drizzle And Snow"
             },
             "RAPL": {
-              "text": "RAPL",
-              "spoken": "Rain And Ice Pellets"
+              "text": "MOD RAPL",
+              "spoken": "Moderate Rain And Ice Pellets"
             },
             "RAPLDZ": {
-              "text": "RAPLDZ",
-              "spoken": "Rain, Ice Pellets And Drizzle"
+              "text": "MOD RAPLDZ",
+              "spoken": "Moderate Rain, Ice Pellets And Drizzle"
             },
             "RAPLSN": {
-              "text": "RAPLSN",
-              "spoken": "Rain, Ice Pellets And Snow"
+              "text": "MOD RAPLSN",
+              "spoken": "Moderate Rain, Ice Pellets And Snow"
             },
             "RASG": {
-              "text": "RASG",
-              "spoken": "Rain And Snow Grains"
+              "text": "MOD RASG",
+              "spoken": "Moderate Rain And Snow Grains"
             },
             "RASGDZ": {
-              "text": "RASGDZ",
-              "spoken": "Rain, Snow Grains And Drizzle"
+              "text": "MOD RASGDZ",
+              "spoken": "Moderate Rain, Snow Grains And Drizzle"
             },
             "RASGSN": {
-              "text": "RASGSN",
-              "spoken": "Rain, Snow Grains And Snow"
+              "text": "MOD RASGSN",
+              "spoken": "Moderate Rain, Snow Grains And Snow"
             },
             "RASN": {
-              "text": "RASN",
-              "spoken": "Rain And Snow"
+              "text": "MOD RASN",
+              "spoken": "Moderate Rain And Snow"
             },
             "RASNDZ": {
-              "text": "RASNDZ",
-              "spoken": "Rain, Snow And Drizzle"
+              "text": "MOD RASNDZ",
+              "spoken": "Moderate Rain, Snow And Drizzle"
             },
             "RASNPL": {
-              "text": "RASNPL",
-              "spoken": "Rain, Snow And Ice Pellets"
+              "text": "MOD RASNPL",
+              "spoken": "Moderate Rain, Snow And Ice Pellets"
             },
             "RASNSG": {
-              "text": "RASNSG",
-              "spoken": "Rain, Snow And Snow Grains"
+              "text": "MOD RASNSG",
+              "spoken": "Moderate Rain, Snow And Snow Grains"
             },
             "SA": {
               "text": "SA",
@@ -3594,64 +3594,64 @@
               "spoken": "Partial Fog"
             },
             "RA": {
-              "text": "RA",
-              "spoken": "Rain"
+              "text": "MOD RA",
+              "spoken": "Moderate Rain"
             },
             "RADZ": {
-              "text": "RADZ",
-              "spoken": "Rain And Drizzle"
+              "text": "MOD RADZ",
+              "spoken": "Moderate Rain And Drizzle"
             },
             "RADZPL": {
-              "text": "RADZPL",
-              "spoken": "Rain, Drizzle And Ice Pellets"
+              "text": "MOD RADZPL",
+              "spoken": "Moderate Rain, Drizzle And Ice Pellets"
             },
             "RADZSG": {
-              "text": "RADZSG",
-              "spoken": "Rain, Drizzle And Snow Grains"
+              "text": "MOD RADZSG",
+              "spoken": "Moderate Rain, Drizzle And Snow Grains"
             },
             "RADZSN": {
-              "text": "RADZSN",
-              "spoken": "Rain, Drizzle And Snow"
+              "text": "MOD RADZSN",
+              "spoken": "Moderate Rain, Drizzle And Snow"
             },
             "RAPL": {
-              "text": "RAPL",
-              "spoken": "Rain And Ice Pellets"
+              "text": "MOD RAPL",
+              "spoken": "Moderate Rain And Ice Pellets"
             },
             "RAPLDZ": {
-              "text": "RAPLDZ",
-              "spoken": "Rain, Ice Pellets And Drizzle"
+              "text": "MOD RAPLDZ",
+              "spoken": "Moderate Rain, Ice Pellets And Drizzle"
             },
             "RAPLSN": {
-              "text": "RAPLSN",
-              "spoken": "Rain, Ice Pellets And Snow"
+              "text": "MOD RAPLSN",
+              "spoken": "Moderate Rain, Ice Pellets And Snow"
             },
             "RASG": {
-              "text": "RASG",
-              "spoken": "Rain And Snow Grains"
+              "text": "MOD RASG",
+              "spoken": "Moderate Rain And Snow Grains"
             },
             "RASGDZ": {
-              "text": "RASGDZ",
-              "spoken": "Rain, Snow Grains And Drizzle"
+              "text": "MOD RASGDZ",
+              "spoken": "Moderate Rain, Snow Grains And Drizzle"
             },
             "RASGSN": {
-              "text": "RASGSN",
-              "spoken": "Rain, Snow Grains And Snow"
+              "text": "MOD RASGSN",
+              "spoken": "Moderate Rain, Snow Grains And Snow"
             },
             "RASN": {
-              "text": "RASN",
-              "spoken": "Rain And Snow"
+              "text": "MOD RASN",
+              "spoken": "Moderate Rain And Snow"
             },
             "RASNDZ": {
-              "text": "RASNDZ",
-              "spoken": "Rain, Snow And Drizzle"
+              "text": "MOD RASNDZ",
+              "spoken": "Moderate Rain, Snow And Drizzle"
             },
             "RASNPL": {
-              "text": "RASNPL",
-              "spoken": "Rain, Snow And Ice Pellets"
+              "text": "MOD RASNPL",
+              "spoken": "Moderate Rain, Snow And Ice Pellets"
             },
             "RASNSG": {
-              "text": "RASNSG",
-              "spoken": "Rain, Snow And Snow Grains"
+              "text": "MOD RASNSG",
+              "spoken": "Moderate Rain, Snow And Snow Grains"
             },
             "SA": {
               "text": "SA",
@@ -5900,64 +5900,64 @@
               "spoken": "Partial Fog"
             },
             "RA": {
-              "text": "RA",
-              "spoken": "Rain"
+              "text": "MOD RA",
+              "spoken": "Moderate Rain"
             },
             "RADZ": {
-              "text": "RADZ",
-              "spoken": "Rain And Drizzle"
+              "text": "MOD RADZ",
+              "spoken": "Moderate Rain And Drizzle"
             },
             "RADZPL": {
-              "text": "RADZPL",
-              "spoken": "Rain, Drizzle And Ice Pellets"
+              "text": "MOD RADZPL",
+              "spoken": "Moderate Rain, Drizzle And Ice Pellets"
             },
             "RADZSG": {
-              "text": "RADZSG",
-              "spoken": "Rain, Drizzle And Snow Grains"
+              "text": "MOD RADZSG",
+              "spoken": "Moderate Rain, Drizzle And Snow Grains"
             },
             "RADZSN": {
-              "text": "RADZSN",
-              "spoken": "Rain, Drizzle And Snow"
+              "text": "MOD RADZSN",
+              "spoken": "Moderate Rain, Drizzle And Snow"
             },
             "RAPL": {
-              "text": "RAPL",
-              "spoken": "Rain And Ice Pellets"
+              "text": "MOD RAPL",
+              "spoken": "Moderate Rain And Ice Pellets"
             },
             "RAPLDZ": {
-              "text": "RAPLDZ",
-              "spoken": "Rain, Ice Pellets And Drizzle"
+              "text": "MOD RAPLDZ",
+              "spoken": "Moderate Rain, Ice Pellets And Drizzle"
             },
             "RAPLSN": {
-              "text": "RAPLSN",
-              "spoken": "Rain, Ice Pellets And Snow"
+              "text": "MOD RAPLSN",
+              "spoken": "Moderate Rain, Ice Pellets And Snow"
             },
             "RASG": {
-              "text": "RASG",
-              "spoken": "Rain And Snow Grains"
+              "text": "MOD RASG",
+              "spoken": "Moderate Rain And Snow Grains"
             },
             "RASGDZ": {
-              "text": "RASGDZ",
-              "spoken": "Rain, Snow Grains And Drizzle"
+              "text": "MOD RASGDZ",
+              "spoken": "Moderate Rain, Snow Grains And Drizzle"
             },
             "RASGSN": {
-              "text": "RASGSN",
-              "spoken": "Rain, Snow Grains And Snow"
+              "text": "MOD RASGSN",
+              "spoken": "Moderate Rain, Snow Grains And Snow"
             },
             "RASN": {
-              "text": "RASN",
-              "spoken": "Rain And Snow"
+              "text": "MOD RASN",
+              "spoken": "Moderate Rain And Snow"
             },
             "RASNDZ": {
-              "text": "RASNDZ",
-              "spoken": "Rain, Snow And Drizzle"
+              "text": "MOD RASNDZ",
+              "spoken": "Moderate Rain, Snow And Drizzle"
             },
             "RASNPL": {
-              "text": "RASNPL",
-              "spoken": "Rain, Snow And Ice Pellets"
+              "text": "MOD RASNPL",
+              "spoken": "Moderate Rain, Snow And Ice Pellets"
             },
             "RASNSG": {
-              "text": "RASNSG",
-              "spoken": "Rain, Snow And Snow Grains"
+              "text": "MOD RASNSG",
+              "spoken": "Moderate Rain, Snow And Snow Grains"
             },
             "SA": {
               "text": "SA",
@@ -8014,64 +8014,64 @@
               "spoken": "Partial Fog"
             },
             "RA": {
-              "text": "RA",
-              "spoken": "Rain"
+              "text": "MOD RA",
+              "spoken": "Moderate Rain"
             },
             "RADZ": {
-              "text": "RADZ",
-              "spoken": "Rain And Drizzle"
+              "text": "MOD RADZ",
+              "spoken": "Moderate Rain And Drizzle"
             },
             "RADZPL": {
-              "text": "RADZPL",
-              "spoken": "Rain, Drizzle And Ice Pellets"
+              "text": "MOD RADZPL",
+              "spoken": "Moderate Rain, Drizzle And Ice Pellets"
             },
             "RADZSG": {
-              "text": "RADZSG",
-              "spoken": "Rain, Drizzle And Snow Grains"
+              "text": "MOD RADZSG",
+              "spoken": "Moderate Rain, Drizzle And Snow Grains"
             },
             "RADZSN": {
-              "text": "RADZSN",
-              "spoken": "Rain, Drizzle And Snow"
+              "text": "MOD RADZSN",
+              "spoken": "Moderate Rain, Drizzle And Snow"
             },
             "RAPL": {
-              "text": "RAPL",
-              "spoken": "Rain And Ice Pellets"
+              "text": "MOD RAPL",
+              "spoken": "Moderate Rain And Ice Pellets"
             },
             "RAPLDZ": {
-              "text": "RAPLDZ",
-              "spoken": "Rain, Ice Pellets And Drizzle"
+              "text": "MOD RAPLDZ",
+              "spoken": "Moderate Rain, Ice Pellets And Drizzle"
             },
             "RAPLSN": {
-              "text": "RAPLSN",
-              "spoken": "Rain, Ice Pellets And Snow"
+              "text": "MOD RAPLSN",
+              "spoken": "Moderate Rain, Ice Pellets And Snow"
             },
             "RASG": {
-              "text": "RASG",
-              "spoken": "Rain And Snow Grains"
+              "text": "MOD RASG",
+              "spoken": "Moderate Rain And Snow Grains"
             },
             "RASGDZ": {
-              "text": "RASGDZ",
-              "spoken": "Rain, Snow Grains And Drizzle"
+              "text": "MOD RASGDZ",
+              "spoken": "Moderate Rain, Snow Grains And Drizzle"
             },
             "RASGSN": {
-              "text": "RASGSN",
-              "spoken": "Rain, Snow Grains And Snow"
+              "text": "MOD RASGSN",
+              "spoken": "Moderate Rain, Snow Grains And Snow"
             },
             "RASN": {
-              "text": "RASN",
-              "spoken": "Rain And Snow"
+              "text": "MOD RASN",
+              "spoken": "Moderate Rain And Snow"
             },
             "RASNDZ": {
-              "text": "RASNDZ",
-              "spoken": "Rain, Snow And Drizzle"
+              "text": "MOD RASNDZ",
+              "spoken": "Moderate Rain, Snow And Drizzle"
             },
             "RASNPL": {
-              "text": "RASNPL",
-              "spoken": "Rain, Snow And Ice Pellets"
+              "text": "MOD RASNPL",
+              "spoken": "Moderate Rain, Snow And Ice Pellets"
             },
             "RASNSG": {
-              "text": "RASNSG",
-              "spoken": "Rain, Snow And Snow Grains"
+              "text": "MOD RASNSG",
+              "spoken": "Moderate Rain, Snow And Snow Grains"
             },
             "SA": {
               "text": "SA",
@@ -10152,64 +10152,64 @@
               "spoken": "Partial Fog"
             },
             "RA": {
-              "text": "RA",
-              "spoken": "Rain"
+              "text": "MOD RA",
+              "spoken": "Moderate Rain"
             },
             "RADZ": {
-              "text": "RADZ",
-              "spoken": "Rain And Drizzle"
+              "text": "MOD RADZ",
+              "spoken": "Moderate Rain And Drizzle"
             },
             "RADZPL": {
-              "text": "RADZPL",
-              "spoken": "Rain, Drizzle And Ice Pellets"
+              "text": "MOD RADZPL",
+              "spoken": "Moderate Rain, Drizzle And Ice Pellets"
             },
             "RADZSG": {
-              "text": "RADZSG",
-              "spoken": "Rain, Drizzle And Snow Grains"
+              "text": "MOD RADZSG",
+              "spoken": "Moderate Rain, Drizzle And Snow Grains"
             },
             "RADZSN": {
-              "text": "RADZSN",
-              "spoken": "Rain, Drizzle And Snow"
+              "text": "MOD RADZSN",
+              "spoken": "Moderate Rain, Drizzle And Snow"
             },
             "RAPL": {
-              "text": "RAPL",
-              "spoken": "Rain And Ice Pellets"
+              "text": "MOD RAPL",
+              "spoken": "Moderate Rain And Ice Pellets"
             },
             "RAPLDZ": {
-              "text": "RAPLDZ",
-              "spoken": "Rain, Ice Pellets And Drizzle"
+              "text": "MOD RAPLDZ",
+              "spoken": "Moderate Rain, Ice Pellets And Drizzle"
             },
             "RAPLSN": {
-              "text": "RAPLSN",
-              "spoken": "Rain, Ice Pellets And Snow"
+              "text": "MOD RAPLSN",
+              "spoken": "Moderate Rain, Ice Pellets And Snow"
             },
             "RASG": {
-              "text": "RASG",
-              "spoken": "Rain And Snow Grains"
+              "text": "MOD RASG",
+              "spoken": "Moderate Rain And Snow Grains"
             },
             "RASGDZ": {
-              "text": "RASGDZ",
-              "spoken": "Rain, Snow Grains And Drizzle"
+              "text": "MOD RASGDZ",
+              "spoken": "Moderate Rain, Snow Grains And Drizzle"
             },
             "RASGSN": {
-              "text": "RASGSN",
-              "spoken": "Rain, Snow Grains And Snow"
+              "text": "MOD RASGSN",
+              "spoken": "Moderate Rain, Snow Grains And Snow"
             },
             "RASN": {
-              "text": "RASN",
-              "spoken": "Rain And Snow"
+              "text": "MOD RASN",
+              "spoken": "Moderate Rain And Snow"
             },
             "RASNDZ": {
-              "text": "RASNDZ",
-              "spoken": "Rain, Snow And Drizzle"
+              "text": "MOD RASNDZ",
+              "spoken": "Moderate Rain, Snow And Drizzle"
             },
             "RASNPL": {
-              "text": "RASNPL",
-              "spoken": "Rain, Snow And Ice Pellets"
+              "text": "MOD RASNPL",
+              "spoken": "Moderate Rain, Snow And Ice Pellets"
             },
             "RASNSG": {
-              "text": "RASNSG",
-              "spoken": "Rain, Snow And Snow Grains"
+              "text": "MOD RASNSG",
+              "spoken": "Moderate Rain, Snow And Snow Grains"
             },
             "SA": {
               "text": "SA",
@@ -12246,64 +12246,64 @@
               "spoken": "Partial Fog"
             },
             "RA": {
-              "text": "RA",
-              "spoken": "Rain"
+              "text": "MOD RA",
+              "spoken": "Moderate Rain"
             },
             "RADZ": {
-              "text": "RADZ",
-              "spoken": "Rain And Drizzle"
+              "text": "MOD RADZ",
+              "spoken": "Moderate Rain And Drizzle"
             },
             "RADZPL": {
-              "text": "RADZPL",
-              "spoken": "Rain, Drizzle And Ice Pellets"
+              "text": "MOD RADZPL",
+              "spoken": "Moderate Rain, Drizzle And Ice Pellets"
             },
             "RADZSG": {
-              "text": "RADZSG",
-              "spoken": "Rain, Drizzle And Snow Grains"
+              "text": "MOD RADZSG",
+              "spoken": "Moderate Rain, Drizzle And Snow Grains"
             },
             "RADZSN": {
-              "text": "RADZSN",
-              "spoken": "Rain, Drizzle And Snow"
+              "text": "MOD RADZSN",
+              "spoken": "Moderate Rain, Drizzle And Snow"
             },
             "RAPL": {
-              "text": "RAPL",
-              "spoken": "Rain And Ice Pellets"
+              "text": "MOD RAPL",
+              "spoken": "Moderate Rain And Ice Pellets"
             },
             "RAPLDZ": {
-              "text": "RAPLDZ",
-              "spoken": "Rain, Ice Pellets And Drizzle"
+              "text": "MOD RAPLDZ",
+              "spoken": "Moderate Rain, Ice Pellets And Drizzle"
             },
             "RAPLSN": {
-              "text": "RAPLSN",
-              "spoken": "Rain, Ice Pellets And Snow"
+              "text": "MOD RAPLSN",
+              "spoken": "Moderate Rain, Ice Pellets And Snow"
             },
             "RASG": {
-              "text": "RASG",
-              "spoken": "Rain And Snow Grains"
+              "text": "MOD RASG",
+              "spoken": "Moderate Rain And Snow Grains"
             },
             "RASGDZ": {
-              "text": "RASGDZ",
-              "spoken": "Rain, Snow Grains And Drizzle"
+              "text": "MOD RASGDZ",
+              "spoken": "Moderate Rain, Snow Grains And Drizzle"
             },
             "RASGSN": {
-              "text": "RASGSN",
-              "spoken": "Rain, Snow Grains And Snow"
+              "text": "MOD RASGSN",
+              "spoken": "Moderate Rain, Snow Grains And Snow"
             },
             "RASN": {
-              "text": "RASN",
-              "spoken": "Rain And Snow"
+              "text": "MOD RASN",
+              "spoken": "Moderate Rain And Snow"
             },
             "RASNDZ": {
-              "text": "RASNDZ",
-              "spoken": "Rain, Snow And Drizzle"
+              "text": "MOD RASNDZ",
+              "spoken": "Moderate Rain, Snow And Drizzle"
             },
             "RASNPL": {
-              "text": "RASNPL",
-              "spoken": "Rain, Snow And Ice Pellets"
+              "text": "MOD RASNPL",
+              "spoken": "Moderate Rain, Snow And Ice Pellets"
             },
             "RASNSG": {
-              "text": "RASNSG",
-              "spoken": "Rain, Snow And Snow Grains"
+              "text": "MOD RASNSG",
+              "spoken": "Moderate Rain, Snow And Snow Grains"
             },
             "SA": {
               "text": "SA",
@@ -14330,64 +14330,64 @@
               "spoken": "Partial Fog"
             },
             "RA": {
-              "text": "RA",
-              "spoken": "Rain"
+              "text": "MOD RA",
+              "spoken": "Moderate Rain"
             },
             "RADZ": {
-              "text": "RADZ",
-              "spoken": "Rain And Drizzle"
+              "text": "MOD RADZ",
+              "spoken": "Moderate Rain And Drizzle"
             },
             "RADZPL": {
-              "text": "RADZPL",
-              "spoken": "Rain, Drizzle And Ice Pellets"
+              "text": "MOD RADZPL",
+              "spoken": "Moderate Rain, Drizzle And Ice Pellets"
             },
             "RADZSG": {
-              "text": "RADZSG",
-              "spoken": "Rain, Drizzle And Snow Grains"
+              "text": "MOD RADZSG",
+              "spoken": "Moderate Rain, Drizzle And Snow Grains"
             },
             "RADZSN": {
-              "text": "RADZSN",
-              "spoken": "Rain, Drizzle And Snow"
+              "text": "MOD RADZSN",
+              "spoken": "Moderate Rain, Drizzle And Snow"
             },
             "RAPL": {
-              "text": "RAPL",
-              "spoken": "Rain And Ice Pellets"
+              "text": "MOD RAPL",
+              "spoken": "Moderate Rain And Ice Pellets"
             },
             "RAPLDZ": {
-              "text": "RAPLDZ",
-              "spoken": "Rain, Ice Pellets And Drizzle"
+              "text": "MOD RAPLDZ",
+              "spoken": "Moderate Rain, Ice Pellets And Drizzle"
             },
             "RAPLSN": {
-              "text": "RAPLSN",
-              "spoken": "Rain, Ice Pellets And Snow"
+              "text": "MOD RAPLSN",
+              "spoken": "Moderate Rain, Ice Pellets And Snow"
             },
             "RASG": {
-              "text": "RASG",
-              "spoken": "Rain And Snow Grains"
+              "text": "MOD RASG",
+              "spoken": "Moderate Rain And Snow Grains"
             },
             "RASGDZ": {
-              "text": "RASGDZ",
-              "spoken": "Rain, Snow Grains And Drizzle"
+              "text": "MOD RASGDZ",
+              "spoken": "Moderate Rain, Snow Grains And Drizzle"
             },
             "RASGSN": {
-              "text": "RASGSN",
-              "spoken": "Rain, Snow Grains And Snow"
+              "text": "MOD RASGSN",
+              "spoken": "Moderate Rain, Snow Grains And Snow"
             },
             "RASN": {
-              "text": "RASN",
-              "spoken": "Rain And Snow"
+              "text": "MOD RASN",
+              "spoken": "Moderate Rain And Snow"
             },
             "RASNDZ": {
-              "text": "RASNDZ",
-              "spoken": "Rain, Snow And Drizzle"
+              "text": "MOD RASNDZ",
+              "spoken": "Moderate Rain, Snow And Drizzle"
             },
             "RASNPL": {
-              "text": "RASNPL",
-              "spoken": "Rain, Snow And Ice Pellets"
+              "text": "MOD RASNPL",
+              "spoken": "Moderate Rain, Snow And Ice Pellets"
             },
             "RASNSG": {
-              "text": "RASNSG",
-              "spoken": "Rain, Snow And Snow Grains"
+              "text": "MOD RASNSG",
+              "spoken": "Moderate Rain, Snow And Snow Grains"
             },
             "SA": {
               "text": "SA",
@@ -16423,64 +16423,64 @@
               "spoken": "Partial Fog"
             },
             "RA": {
-              "text": "RA",
-              "spoken": "Rain"
+              "text": "MOD RA",
+              "spoken": "Moderate Rain"
             },
             "RADZ": {
-              "text": "RADZ",
-              "spoken": "Rain And Drizzle"
+              "text": "MOD RADZ",
+              "spoken": "Moderate Rain And Drizzle"
             },
             "RADZPL": {
-              "text": "RADZPL",
-              "spoken": "Rain, Drizzle And Ice Pellets"
+              "text": "MOD RADZPL",
+              "spoken": "Moderate Rain, Drizzle And Ice Pellets"
             },
             "RADZSG": {
-              "text": "RADZSG",
-              "spoken": "Rain, Drizzle And Snow Grains"
+              "text": "MOD RADZSG",
+              "spoken": "Moderate Rain, Drizzle And Snow Grains"
             },
             "RADZSN": {
-              "text": "RADZSN",
-              "spoken": "Rain, Drizzle And Snow"
+              "text": "MOD RADZSN",
+              "spoken": "Moderate Rain, Drizzle And Snow"
             },
             "RAPL": {
-              "text": "RAPL",
-              "spoken": "Rain And Ice Pellets"
+              "text": "MOD RAPL",
+              "spoken": "Moderate Rain And Ice Pellets"
             },
             "RAPLDZ": {
-              "text": "RAPLDZ",
-              "spoken": "Rain, Ice Pellets And Drizzle"
+              "text": "MOD RAPLDZ",
+              "spoken": "Moderate Rain, Ice Pellets And Drizzle"
             },
             "RAPLSN": {
-              "text": "RAPLSN",
-              "spoken": "Rain, Ice Pellets And Snow"
+              "text": "MOD RAPLSN",
+              "spoken": "Moderate Rain, Ice Pellets And Snow"
             },
             "RASG": {
-              "text": "RASG",
-              "spoken": "Rain And Snow Grains"
+              "text": "MOD RASG",
+              "spoken": "Moderate Rain And Snow Grains"
             },
             "RASGDZ": {
-              "text": "RASGDZ",
-              "spoken": "Rain, Snow Grains And Drizzle"
+              "text": "MOD RASGDZ",
+              "spoken": "Moderate Rain, Snow Grains And Drizzle"
             },
             "RASGSN": {
-              "text": "RASGSN",
-              "spoken": "Rain, Snow Grains And Snow"
+              "text": "MOD RASGSN",
+              "spoken": "Moderate Rain, Snow Grains And Snow"
             },
             "RASN": {
-              "text": "RASN",
-              "spoken": "Rain And Snow"
+              "text": "MOD RASN",
+              "spoken": "Moderate Rain And Snow"
             },
             "RASNDZ": {
-              "text": "RASNDZ",
-              "spoken": "Rain, Snow And Drizzle"
+              "text": "MOD RASNDZ",
+              "spoken": "Moderate Rain, Snow And Drizzle"
             },
             "RASNPL": {
-              "text": "RASNPL",
-              "spoken": "Rain, Snow And Ice Pellets"
+              "text": "MOD RASNPL",
+              "spoken": "Moderate Rain, Snow And Ice Pellets"
             },
             "RASNSG": {
-              "text": "RASNSG",
-              "spoken": "Rain, Snow And Snow Grains"
+              "text": "MOD RASNSG",
+              "spoken": "Moderate Rain, Snow And Snow Grains"
             },
             "SA": {
               "text": "SA",
