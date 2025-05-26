@@ -84,9 +84,9 @@
           }
         },
         "runwayVisualRange": {
-          "neutralTendency": "Neutral",
-          "goingUpTendency": "Going Up",
-          "goingDownTendency": "Going Down",
+          "neutralTendency": "No Change",
+          "goingUpTendency": "Increasing",
+          "goingDownTendency": "Decreasing",
           "template": {}
         },
         "presentWeather": {
@@ -2382,9 +2382,9 @@
           }
         },
         "runwayVisualRange": {
-          "neutralTendency": "Neutral",
-          "goingUpTendency": "Going Up",
-          "goingDownTendency": "Going Down",
+          "neutralTendency": "No Change",
+          "goingUpTendency": "Increasing",
+          "goingDownTendency": "Decreasing",
           "template": {}
         },
         "presentWeather": {
@@ -4716,9 +4716,9 @@
           }
         },
         "runwayVisualRange": {
-          "neutralTendency": "Neutral",
-          "goingUpTendency": "Going Up",
-          "goingDownTendency": "Going Down",
+          "neutralTendency": "No Change",
+          "goingUpTendency": "Increasing",
+          "goingDownTendency": "Decreasing",
           "template": {}
         },
         "presentWeather": {
@@ -6870,9 +6870,9 @@
           }
         },
         "runwayVisualRange": {
-          "neutralTendency": "Neutral",
-          "goingUpTendency": "Going Up",
-          "goingDownTendency": "Going Down",
+          "neutralTendency": "No Change",
+          "goingUpTendency": "Increasing",
+          "goingDownTendency": "Decreasing",
           "template": {}
         },
         "presentWeather": {
@@ -9036,9 +9036,9 @@
           }
         },
         "runwayVisualRange": {
-          "neutralTendency": "Neutral",
-          "goingUpTendency": "Going Up",
-          "goingDownTendency": "Going Down",
+          "neutralTendency": "No Change",
+          "goingUpTendency": "Increasing",
+          "goingDownTendency": "Decreasing",
           "template": {}
         },
         "presentWeather": {
@@ -11158,9 +11158,9 @@
           }
         },
         "runwayVisualRange": {
-          "neutralTendency": "Neutral",
-          "goingUpTendency": "Going Up",
-          "goingDownTendency": "Going Down",
+          "neutralTendency": "No Change",
+          "goingUpTendency": "Increasing",
+          "goingDownTendency": "Decreasing",
           "template": {}
         },
         "presentWeather": {
@@ -13270,9 +13270,9 @@
           }
         },
         "runwayVisualRange": {
-          "neutralTendency": "Neutral",
-          "goingUpTendency": "Going Up",
-          "goingDownTendency": "Going Down",
+          "neutralTendency": "No Change",
+          "goingUpTendency": "Increasing",
+          "goingDownTendency": "Decreasing",
           "template": {}
         },
         "presentWeather": {
@@ -15391,9 +15391,9 @@
           }
         },
         "runwayVisualRange": {
-          "neutralTendency": "Neutral",
-          "goingUpTendency": "Going Up",
-          "goingDownTendency": "Going Down",
+          "neutralTendency": "No Change",
+          "goingUpTendency": "Increasing",
+          "goingDownTendency": "Decreasing",
           "template": {}
         },
         "presentWeather": {
