@@ -6684,7 +6684,7 @@
         {
           "text": "CAUTION MODEL AIRFIELDS ACTIVE WITHIN @CTR DURING DAYTIME AS PUBLISHED UP TO @150M @AGL",
           "ordinal": 3,
-          "enabled": true
+          "enabled": false
         }
       ]
     },
