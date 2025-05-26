@@ -1877,7 +1877,7 @@
         },
         "trend": {
           "nosigText": "NOSIG",
-          "nosigVoice": "No Significant Changes",
+          "nosigVoice": "No Sick",
           "becomingText": "BECMG",
           "becomingVoice": "Becoming",
           "temporaryText": "TEMPO",
@@ -4175,7 +4175,7 @@
         },
         "trend": {
           "nosigText": "NOSIG",
-          "nosigVoice": "No Significant Changes",
+          "nosigVoice": "No Sick",
           "becomingText": "BECMG",
           "becomingVoice": "Becoming",
           "temporaryText": "TEMPO",
@@ -6509,7 +6509,7 @@
         },
         "trend": {
           "nosigText": "NOSIG",
-          "nosigVoice": "No Significant Changes",
+          "nosigVoice": "No Sick",
           "becomingText": "BECMG",
           "becomingVoice": "Becoming",
           "temporaryText": "TEMPO",
@@ -8651,7 +8651,7 @@
         },
         "trend": {
           "nosigText": "NOSIG",
-          "nosigVoice": "No Significant Changes",
+          "nosigVoice": "No Sick",
           "becomingText": "BECMG",
           "becomingVoice": "Becoming",
           "temporaryText": "TEMPO",
@@ -10817,7 +10817,7 @@
         },
         "trend": {
           "nosigText": "NOSIG",
-          "nosigVoice": "No Significant Changes",
+          "nosigVoice": "No Sick",
           "becomingText": "BECMG",
           "becomingVoice": "Becoming",
           "temporaryText": "TEMPO",
@@ -12939,7 +12939,7 @@
         },
         "trend": {
           "nosigText": "NOSIG",
-          "nosigVoice": "No Significant Changes",
+          "nosigVoice": "No Sick",
           "becomingText": "BECMG",
           "becomingVoice": "Becoming",
           "temporaryText": "TEMPO",
@@ -15051,7 +15051,7 @@
         },
         "trend": {
           "nosigText": "NOSIG",
-          "nosigVoice": "No Significant Changes",
+          "nosigVoice": "No Sick",
           "becomingText": "BECMG",
           "becomingVoice": "Becoming",
           "temporaryText": "TEMPO",
@@ -17172,7 +17172,7 @@
         },
         "trend": {
           "nosigText": "NOSIG",
-          "nosigVoice": "No Significant Changes",
+          "nosigVoice": "No Sick",
           "becomingText": "BECMG",
           "becomingVoice": "Becoming",
           "temporaryText": "TEMPO",
