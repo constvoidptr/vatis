@@ -8884,16 +8884,6 @@
           "voice": "CONDITION"
         },
         {
-          "variableName": "TRA_L_AND_C",
-          "text": "TRAS L AND C ACTIVE",
-          "voice": "TEMPORARY RESERVED AREAS LIMA AND CHARLIE ACTIVE"
-        },
-        {
-          "variableName": "TRA_L_AND_NORDPARK",
-          "text": "TRAS L AND NORDPARK ACTIVE",
-          "voice": "TEMPORARY RESERVED AREAS LIMA AND NORDPARK ACTIVE"
-        },
-        {
           "variableName": "CTR",
           "text": "CTR",
           "voice": "CONTROL ZONE"
@@ -8948,12 +8938,12 @@
           "enabled": false
         },
         {
-          "text": "@TRA_L_AND_C",
+          "text": "@TRAS *L AND *C ACTIVE",
           "ordinal": 3,
           "enabled": false
         },
         {
-          "text": "@TRA_L_AND_NORDPARK",
+          "text": "@TRAS *L AND NORDPARK ACTIVE",
           "ordinal": 4,
           "enabled": false
         },
