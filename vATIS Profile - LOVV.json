@@ -4269,9 +4269,15 @@
           "name": "Config C - DEP: 29 ARR: 29",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nARR RWY 29 @ILS_Z\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nARR RWY 29 ILS *Z\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         },
         {
@@ -4423,9 +4429,15 @@
           "name": "Config NC - Night - DEP: 29 ARR: 29",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nARR RWY 29 @ILS_Z\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nARR RWY 29 ILS *Z\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         },
         {
@@ -4434,9 +4446,15 @@
           "name": "Config NC - Night - DEP: 29 ARR: 29 - with ILS U",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nARR RWY 29 @ILS_Z OR RNP TRANSITION TO @ILS_U\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nARR RWY 29 ILS *Z OR RNP TRANSITION TO ILS *U\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         },
         {
@@ -4549,16 +4567,6 @@
           "variableName": "INPR",
           "text": "INPR",
           "voice": "IN PROGRESS"
-        },
-        {
-          "variableName": "ILS_Z",
-          "text": "ILS Z",
-          "voice": "ILS ZULU"
-        },
-        {
-          "variableName": "ILS_U",
-          "text": "ILS U",
-          "voice": "ILS UNIFORM"
         },
         {
           "variableName": "WIND_SHEAR",
@@ -17257,7 +17265,13 @@
           "notams": "",
           "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 11 . ARR RWY 11 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         },
         {
@@ -17275,9 +17289,15 @@
           "name": "Config C - DEP: 29 ARR: 29",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29 . ARR RWY 29 @ILS_Z\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29 . ARR RWY 29 ILS *Z\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         },
         {
@@ -17415,9 +17435,15 @@
           "name": "Config NC - Night - DEP: 29 ARR: 29",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29 . ARR RWY 29 @ILS_Z . ALL ACFT DEPARTING BETWEEN 2100 LT AND 0700 LT WILL BE CLEARED VIA NOISE ABATEMENT SIDS. STRICT ADHERENCE IS MANDATORY AND WILL BE MONITORED\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29 . ARR RWY 29 ILS *Z . ALL ACFT DEPARTING BETWEEN 2100 LT AND 0700 LT WILL BE CLEARED VIA NOISE ABATEMENT SIDS. STRICT ADHERENCE IS MANDATORY AND WILL BE MONITORED\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         },
         {
@@ -17455,9 +17481,15 @@
           "name": "Special - ARR RWY and APCH as ARPT COND",
           "airportConditions": "DEP RWY 29 . ARR RWY 34 RNP",
           "notams": "",
-          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\n[ARPT_COND]\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\n[ARPT_COND]\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         }
       ],
@@ -17556,11 +17588,6 @@
           "variableName": "INPR",
           "text": "INPR",
           "voice": "IN PROGRESS"
-        },
-        {
-          "variableName": "ILS_Z",
-          "text": "ILS Z",
-          "voice": "ILS ZULU"
         }
       ],
       "airportConditionDefinitions": [
