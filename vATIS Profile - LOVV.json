@@ -2274,13 +2274,18 @@
           "enabled": false
         },
         {
+          "text": "*CB IN APCH",
+          "ordinal": 2,
+          "enabled": false
+        },
+        {
           "text": "@WIND_SHEAR IN APCH AND IN CLIMB OUT",
-          "ordinal": 3,
+          "ordinal": 4,
           "enabled": false
         },
         {
           "text": "MOD TURB IN APCH AND IN CLIMB OUT",
-          "ordinal": 4,
+          "ordinal": 5,
           "enabled": false
         }
       ],
@@ -4611,13 +4616,18 @@
           "enabled": false
         },
         {
+          "text": "*CB IN APCH",
+          "ordinal": 2,
+          "enabled": false
+        },
+        {
           "text": "@WIND_SHEAR IN APCH AND IN CLIMB OUT",
-          "ordinal": 3,
+          "ordinal": 4,
           "enabled": false
         },
         {
           "text": "MOD TURB IN APCH AND IN CLIMB OUT",
-          "ordinal": 4,
+          "ordinal": 5,
           "enabled": false
         }
       ],
@@ -17592,13 +17602,18 @@
           "enabled": false
         },
         {
+          "text": "*CB IN APCH",
+          "ordinal": 2,
+          "enabled": false
+        },
+        {
           "text": "@WIND_SHEAR IN APCH AND IN CLIMB OUT",
-          "ordinal": 3,
+          "ordinal": 4,
           "enabled": false
         },
         {
           "text": "MOD TURB IN APCH AND IN CLIMB OUT",
-          "ordinal": 4,
+          "ordinal": 5,
           "enabled": false
         }
       ],

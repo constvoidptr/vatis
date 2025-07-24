@@ -1,2 +1,2 @@
-vATIS profiles for the VACC Austria
+vATIS Profiles - VACC Austria
 ===================================
