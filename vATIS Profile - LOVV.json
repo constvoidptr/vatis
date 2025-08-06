@@ -2264,27 +2264,27 @@
       ],
       "airportConditionDefinitions": [
         {
-          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
+          "text": "*CB IN APCH",
           "ordinal": 1,
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
-          "ordinal": 2,
-          "enabled": false
-        },
-        {
-          "text": "*CB IN APCH",
+          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
           "ordinal": 2,
           "enabled": false
         },
         {
           "text": "@WIND_SHEAR IN APCH AND IN CLIMB OUT",
+          "ordinal": 2,
+          "enabled": false
+        },
+        {
+          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
           "ordinal": 4,
           "enabled": false
         },
         {
-          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
+          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
           "ordinal": 5,
           "enabled": false
         }
@@ -4606,27 +4606,27 @@
       ],
       "airportConditionDefinitions": [
         {
-          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
+          "text": "*CB IN APCH",
           "ordinal": 1,
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
-          "ordinal": 2,
-          "enabled": false
-        },
-        {
-          "text": "*CB IN APCH",
+          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
           "ordinal": 2,
           "enabled": false
         },
         {
           "text": "@WIND_SHEAR IN APCH AND IN CLIMB OUT",
-          "ordinal": 4,
+          "ordinal": 3,
           "enabled": false
         },
         {
-          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
+          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
+          "ordinal": 3,
+          "enabled": false
+        },
+        {
+          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
           "ordinal": 5,
           "enabled": false
         }
@@ -6770,22 +6770,22 @@
       ],
       "airportConditionDefinitions": [
         {
-          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
+          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
           "ordinal": 1,
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
+          "text": "@WIND_SHEAR IN APCH AND IN CLIMB OUT",
           "ordinal": 2,
           "enabled": false
         },
         {
-          "text": "@WIND_SHEAR IN APCH AND IN CLIMB OUT",
-          "ordinal": 3,
+          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
+          "ordinal": 2,
           "enabled": false
         },
         {
-          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
+          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
           "ordinal": 4,
           "enabled": false
         }
@@ -8916,22 +8916,22 @@
       ],
       "airportConditionDefinitions": [
         {
-          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
-          "ordinal": 1,
-          "enabled": false
-        },
-        {
-          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
-          "ordinal": 2,
+          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
+          "ordinal": 0,
           "enabled": false
         },
         {
           "text": "@WIND_SHEAR IN APCH AND IN CLIMB OUT",
+          "ordinal": 2,
+          "enabled": false
+        },
+        {
+          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
           "ordinal": 3,
           "enabled": false
         },
         {
-          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
+          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
           "ordinal": 4,
           "enabled": false
         }
@@ -11043,22 +11043,22 @@
       ],
       "airportConditionDefinitions": [
         {
-          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
-          "ordinal": 1,
-          "enabled": false
-        },
-        {
-          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
-          "ordinal": 2,
+          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
+          "ordinal": 0,
           "enabled": false
         },
         {
           "text": "@WIND_SHEAR IN APCH AND IN CLIMB OUT",
+          "ordinal": 2,
+          "enabled": false
+        },
+        {
+          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
           "ordinal": 3,
           "enabled": false
         },
         {
-          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
+          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
           "ordinal": 4,
           "enabled": false
         }
@@ -11070,12 +11070,12 @@
           "enabled": false
         },
         {
-          "text": "TEMPORARY RESERVED AREAS GERLITZEN ACTIVE UP TO *9500 FT AND FELDKIRCHEN UP TO *6500 FT",
-          "ordinal": 2,
+          "text": "TEMPORARY RESERVED AREA KLAGENFURT ACTIVE UP TO *3500 FT",
+          "ordinal": 1,
           "enabled": false
         },
         {
-          "text": "TEMPORARY RESERVED AREA KLAGENFURT ACTIVE UP TO *3500 FT",
+          "text": "TEMPORARY RESERVED AREAS GERLITZEN ACTIVE UP TO *9500 FT AND FELDKIRCHEN UP TO *6500 FT",
           "ordinal": 3,
           "enabled": false
         },
@@ -13155,22 +13155,22 @@
       ],
       "airportConditionDefinitions": [
         {
-          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
-          "ordinal": 1,
-          "enabled": false
-        },
-        {
-          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
-          "ordinal": 2,
+          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
+          "ordinal": 0,
           "enabled": false
         },
         {
           "text": "@WIND_SHEAR IN APCH AND IN CLIMB OUT",
+          "ordinal": 2,
+          "enabled": false
+        },
+        {
+          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
           "ordinal": 3,
           "enabled": false
         },
         {
-          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
+          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
           "ordinal": 4,
           "enabled": false
         }
@@ -15281,22 +15281,22 @@
       ],
       "airportConditionDefinitions": [
         {
-          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
+          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
           "ordinal": 1,
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
+          "text": "@WIND_SHEAR IN APCH AND IN CLIMB OUT",
           "ordinal": 2,
           "enabled": false
         },
         {
-          "text": "@WIND_SHEAR IN APCH AND IN CLIMB OUT",
-          "ordinal": 3,
+          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
+          "ordinal": 2,
           "enabled": false
         },
         {
-          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
+          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
           "ordinal": 4,
           "enabled": false
         }
@@ -15308,12 +15308,12 @@
           "enabled": false
         },
         {
-          "text": "GLIDERAREA SCHWARZENBERG ACTIVE",
-          "ordinal": 2,
+          "text": "GLIDERAREA GAISBERG ACTIVE",
+          "ordinal": 1,
           "enabled": false
         },
         {
-          "text": "GLIDERAREA GAISBERG ACTIVE",
+          "text": "GLIDERAREA SCHWARZENBERG ACTIVE",
           "ordinal": 3,
           "enabled": false
         }
@@ -17592,27 +17592,27 @@
       ],
       "airportConditionDefinitions": [
         {
-          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
+          "text": "*CB IN APCH",
           "ordinal": 1,
           "enabled": false
         },
         {
-          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
-          "ordinal": 2,
-          "enabled": false
-        },
-        {
-          "text": "*CB IN APCH",
+          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
           "ordinal": 2,
           "enabled": false
         },
         {
           "text": "@WIND_SHEAR IN APCH AND IN CLIMB OUT",
+          "ordinal": 3,
+          "enabled": false
+        },
+        {
+          "text": "RWY COND REPORT. RWY COND CODES 6. 6. 6. FIRST PART DRY. SECOND PART DRY. THIRD PART DRY",
           "ordinal": 4,
           "enabled": false
         },
         {
-          "text": "MOD TURB IN APCH AND IN CLIMB OUT",
+          "text": "RWY COND REPORT. RWY COND CODES 5. 5. 5. FIRST PART *100 PERCENT, WET. SECOND PART *100 PERCENT, WET. THIRD PART *100 PERCENT, WET",
           "ordinal": 5,
           "enabled": false
         }
