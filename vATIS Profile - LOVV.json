@@ -2037,9 +2037,15 @@
           "name": "Config F2 - DEP: 29/16 ARR: 16",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX, ADA, LED DEP RWY 16 . ARR RWY 16\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX, ADA OR LED DEP RWY 16 . ARR RWY 16\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         },
         {
@@ -2076,9 +2082,15 @@
           "name": "Config G2 - DEP: 29/34 ARR: 34",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA LAN, KOX, ADA, LED DEP RWY 34 . ARR RWY 34\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA LAN, KOX, ADA OR LED DEP RWY 34 . ARR RWY 34\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         },
         {
@@ -2087,9 +2099,15 @@
           "name": "Config G3 - DEP: 29/34 ARR: 34",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX, ADA, LED DEP RWY 34 . ARR RWY 34\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX, ADA OR LED DEP RWY 34 . ARR RWY 34\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         },
         {
@@ -2098,9 +2116,15 @@
           "name": "Config G4 - DEP: 29/34 ARR: 34",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX, ADA DEP RWY 34 . ARR RWY 34\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX OR ADA DEP RWY 34 . ARR RWY 34\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         },
         {
@@ -17355,9 +17379,15 @@
           "name": "Config F2 - DEP: 29/16 ARR: 16",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX, ADA, LED DEP RWY 16 . ARR RWY 16 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX, ADA OR LED DEP RWY 16 . ARR RWY 16 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         },
         {
@@ -17385,9 +17415,15 @@
           "name": "Config G2 - DEP: 29/34 ARR: 34",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA LAN, KOX, ADA, LED DEP RWY 34 . ARR RWY 34 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA LAN, KOX, ADA OR LED DEP RWY 34 . ARR RWY 34 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         },
         {
@@ -17395,9 +17431,15 @@
           "name": "Config G3 - DEP: 29/34 ARR: 34",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX, ADA, LED DEP RWY 34 . ARR RWY 34 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX, ADA OR LED DEP RWY 34 . ARR RWY 34 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         },
         {
@@ -17405,9 +17447,15 @@
           "name": "Config G4 - DEP: 29/34 ARR: 34",
           "airportConditions": "",
           "notams": "",
-          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX, ADA DEP RWY 34 . ARR RWY 34 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
+          "template": "@LOWW_ATIS [ATIS_CODE]\r\nAT [TIME] @START_OF_DATA\r\nDEP RWY 29, TFC VIA KOX OR ADA DEP RWY 34 . ARR RWY 34 ILS\r\n[TL]\r\n@WND_TDZ [WIND]\r\n[VIS] [RVR]\r\n[PRESENT_WX]\r\n[CLOUDS]\r\n[TEMP] [DEW] [PRESSURE]\r\n[WS]\r\n[RECENT_WX]\r\n@AD_TREND [TREND]\r\n[ARPT_COND]\r\n[NOTAMS]\r\n@END_OF_DATA",
           "externalGenerator": {
-            "enabled": false
+            "enabled": false,
+            "textUrl": "",
+            "voiceUrl": "",
+            "arrival": "",
+            "departure": "",
+            "approaches": "",
+            "remarks": ""
           }
         },
         {
