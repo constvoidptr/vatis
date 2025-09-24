@@ -80,7 +80,7 @@
           "metersCutoff": 5000,
           "template": {
             "text": "VIS {visibility}M",
-            "voice": "VISIBILITY TOUCH DOWN ZONE {visibility}."
+            "voice": "VISIBILITY {visibility}."
           }
         },
         "runwayVisualRange": {
@@ -2407,7 +2407,7 @@
           "metersCutoff": 5000,
           "template": {
             "text": "VIS {visibility}M",
-            "voice": "VISIBILITY TOUCH DOWN ZONE {visibility}."
+            "voice": "VISIBILITY {visibility}."
           }
         },
         "runwayVisualRange": {
@@ -4754,7 +4754,7 @@
           "metersCutoff": 5000,
           "template": {
             "text": "VIS {visibility}M",
-            "voice": "VISIBILITY TOUCH DOWN ZONE {visibility}."
+            "voice": "VISIBILITY {visibility}."
           }
         },
         "runwayVisualRange": {
@@ -6908,7 +6908,7 @@
           "metersCutoff": 5000,
           "template": {
             "text": "VIS {visibility}M",
-            "voice": "VISIBILITY TOUCH DOWN ZONE {visibility}."
+            "voice": "VISIBILITY {visibility}."
           }
         },
         "runwayVisualRange": {
@@ -9064,7 +9064,7 @@
           "metersCutoff": 5000,
           "template": {
             "text": "VIS {visibility}M",
-            "voice": "VISIBILITY TOUCH DOWN ZONE {visibility}."
+            "voice": "VISIBILITY {visibility}."
           }
         },
         "runwayVisualRange": {
@@ -11186,7 +11186,7 @@
           "metersCutoff": 5000,
           "template": {
             "text": "VIS {visibility}M",
-            "voice": "VISIBILITY TOUCH DOWN ZONE {visibility}."
+            "voice": "VISIBILITY {visibility}."
           }
         },
         "runwayVisualRange": {
@@ -13298,7 +13298,7 @@
           "metersCutoff": 5000,
           "template": {
             "text": "VIS {visibility}M",
-            "voice": "VISIBILITY TOUCH DOWN ZONE {visibility}."
+            "voice": "VISIBILITY {visibility}."
           }
         },
         "runwayVisualRange": {
@@ -15419,7 +15419,7 @@
           "metersCutoff": 5000,
           "template": {
             "text": "VIS {visibility}M",
-            "voice": "VISIBILITY TOUCH DOWN ZONE {visibility}."
+            "voice": "VISIBILITY {visibility}."
           }
         },
         "runwayVisualRange": {
